@@ -1,7 +1,5 @@
 # AmobladoWeb
 
----
-
 ### Apredices
 
   - Anderson Santamaria Jerez
